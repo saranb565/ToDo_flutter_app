@@ -41,8 +41,8 @@ flutter pub get
 flutter run
 ```
 
-<p>5. APK Download</p>
+<h1>5. APK Download</h1>
 
-```
-You can download the latest APK from the Releases section.
-```
+
+<p>You can download the latest APK from the Releases section.</p>
+
