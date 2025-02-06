@@ -15,6 +15,14 @@ Here're some of the project's best features:
 *   Delete tasks you no longer need with just a swipe
 *   Clean and minimalistic UI
 
+<h2>Project Screenshots</h2>
+![Screenshot 1](https://drive.google.com/uc?export=view&id=1-wRAR5YfgSreuECrKyUggEWCKd2k16h-)
+![Screenshot 2](https://drive.google.com/uc?export=view&id=1-ksSrt2b7mpCj5zzkuFTJaCMS1SA9zLG)
+![Screenshot 3](https://drive.google.com/uc?export=view&id=1-gLTjzoTx2p46sgICGQL6XNRvS-5ta0u)
+![Screenshot 4](https://drive.google.com/uc?export=view&id=1-_CXFyVgstaZ1nf6O5RcCJ_60VH04OCG)
+![Screenshot 5](https://drive.google.com/uc?export=view&id=1-UPFcrsnbrmI5PNI0XR6B5EKKq5eJW3s)
+
+
 <h2>🛠️ Installation Steps:</h2>
 
 <p>1. Clone the Repository</p>
@@ -41,7 +49,7 @@ flutter pub get
 flutter run
 ```
 
-<h1>5. APK Download</h1>
+<h3>5. APK Download</h3>
 
 
 <p>You can download the latest APK from the Releases section.</p>
