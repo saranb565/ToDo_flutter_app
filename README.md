@@ -19,8 +19,11 @@ Here're some of the project's best features:
 <img src="https://drive.google.com/uc?export=view&id=1-wRAR5YfgSreuECrKyUggEWCKd2k16h-" alt="Screenshot 1" width="300"/>
 <br />
 <img src="https://drive.google.com/uc?export=view&id=1-ksSrt2b7mpCj5zzkuFTJaCMS1SA9zLG" alt="Screenshot 2" width="300"/>
+<br />
 <img src="https://drive.google.com/uc?export=view&id=1-gLTjzoTx2p46sgICGQL6XNRvS-5ta0u" alt="Screenshot 3" width="300"/>
+<br />
 <img src="https://drive.google.com/uc?export=view&id=1-_CXFyVgstaZ1nf6O5RcCJ_60VH04OCG" alt="Screenshot 4" width="300"/>
+<br />
 <img src="https://drive.google.com/uc?export=view&id=1-UPFcrsnbrmI5PNI0XR6B5EKKq5eJW3s" alt="Screenshot 5" width="300"/>
 
 
@@ -55,4 +58,7 @@ flutter run
 
 
 <p>You can download the latest APK from the Releases section.</p>
+
+<h2>📄 License</h2>
+<p>This project is licensed under the [MIT License](LICENSE). </p>
 
