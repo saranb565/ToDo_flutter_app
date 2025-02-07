@@ -38,7 +38,7 @@ class TodoList extends StatelessWidget {
         child: Container(
           padding: EdgeInsets.all(20),
           decoration: BoxDecoration(
-            color: const Color.fromARGB(255, 54, 1, 246),
+            color: const Color.fromARGB(255, 175, 229, 243),
             borderRadius: BorderRadius.circular(15),
           ),
           child: Row(
@@ -53,7 +53,7 @@ class TodoList extends StatelessWidget {
               Text(
                 overflow: TextOverflow.ellipsis,
                 style: TextStyle(
-                  color: Colors.white,
+                  color: const Color.fromARGB(255, 0, 0, 0),
                   fontSize: 18,
                   decoration: taskCompleted
                       ? TextDecoration.lineThrough
