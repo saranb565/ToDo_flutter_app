@@ -16,12 +16,16 @@ Here're some of the project's best features:
 *   Clean and minimalistic UI
 
 <h2>📱 Project Screenshots</h2>
-<img src="https://drive.google.com/uc?export=view&id=10oWFrb7WIHQyH_gtAE_3nMZ2TvjUbVsZ" alt="Image 1" width="300" />
+<img src="https://drive.google.com/uc?export=view&id=10oWFrb7WIHQyH_gtAE_3nMZ2TvjUbVsZ" alt="Image 1" width="300" /> 
+<br />
 <img src="https://drive.google.com/uc?export=view&id=10sAI3num2ayN7XSIGtjL7N1BMTnyo-qh" alt="Image 2" width="300" />
-
+<br />
 <img src="https://drive.google.com/uc?export=view&id=10sAw1MZq9mb7n-tIcdvEQ1K_7h73tgwq" alt="Image 3" width="300" />
+<br />
 <img src="https://drive.google.com/uc?export=view&id=111ciPNK8y4oTt3_RI7U6WFg966Dobexd" alt="Image 4" width="300" />
+<br />
 <img src="https://drive.google.com/uc?export=view&id=11ONUwCNZ8Psrf5n1NMF3JMo9_6YhXOdZ" alt="Image 5" width="300" />
+<br />
 
 
 
